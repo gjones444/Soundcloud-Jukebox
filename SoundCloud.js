@@ -16,7 +16,6 @@ $(document).ready(function(){
 	var stopPlaying = $('#playStop');
 	playlist = $('#musicResults');
 	var isPlaying = false;
-	var clear = $('#clear');
 
 //Play specific track
 /*	$(document).on('click', '#play', function(){
